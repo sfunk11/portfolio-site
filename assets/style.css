@@ -1,0 +1,8 @@
+.container {
+    max-width: 700px;
+    background-color: ivory;
+    float: left;
+}
+body{
+    background-color: lightgray;
+}
